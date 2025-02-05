@@ -7,4 +7,8 @@
     .Glowing-btn {
         height: 60px;
     }
+
+    .quizz_logo > h3 {
+        text-align: center;
+    }
 }
