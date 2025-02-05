@@ -45,7 +45,7 @@
     }
 
     .quizz_results {
-        height: 950px;
+        height: 850px;
     }
 }
 
@@ -57,6 +57,6 @@
     }
 
     .quizz_results {
-        height: 550px;
+        height: 500px;
     }
 }
