@@ -9,7 +9,7 @@ Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacion
 
 ✅ **Relatório para RH**: Resultados que ajudam a identificar áreas que precisam de melhorias e evitar que seus talentos busquem novas oportunidades.
 
-✅ **Design Sofisticado**: Botões com um efeito de aurora boreal para tornar a experiência mais agradável e interativa.
+✅ **Design Sofisticado**: Botões cheios de efeitos para tornar a experiência mais agradável e interativa.
 <br><br>
 
 ## Tecnologias Utilizadas
