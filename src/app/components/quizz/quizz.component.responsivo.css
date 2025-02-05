@@ -12,6 +12,11 @@
     .quizz_logo > h3 {
         text-align: center;
     }
+
+    .quizz_results {
+        height: 900px;
+        padding: 10px;
+    }
 }
 
 /* Celular Paisagem */
@@ -24,6 +29,14 @@
 
 /* Tablet Retrato */
 @media (min-width: 601px) and (max-width: 800px) and (orientation: portrait) {
+    .btn-option {
+        width: 100%;
+        margin-right: 0x;
+    }
+}
+
+/* Tablet Paisagem */
+@media (min-width: 801px) and (max-width: 1024px) and (orientation: landscape) {
     .btn-option {
         width: 100%;
         margin-right: 0x;
