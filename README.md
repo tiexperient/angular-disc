@@ -7,7 +7,7 @@ Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacion
 
 ✅ **Avaliação de Clima Organizacional**: 16 perguntas, com 6 opções de respostas cada, para medir a satisfação dos colaboradores de maneira precisa e envolvente.
 
-✅ **Relatórios para RH**: Resultados que ajudam a identificar áreas que precisam de melhorias e evitar que seus talentos busquem novas oportunidades.
+✅ **Relatório para RH**: Resultados que ajudam a identificar áreas que precisam de melhorias e evitar que seus talentos busquem novas oportunidades.
 
 ✅ **Design Sofisticado**: Botões com um efeito de aurora boreal para tornar a experiência mais agradável e interativa.
 <br><br>
