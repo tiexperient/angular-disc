@@ -43,6 +43,10 @@
     .Glowing-btn {
         height: 60px;
     }
+
+    .quizz_results {
+        height: 950px;
+    }
 }
 
 /* Tablet Paisagem */
