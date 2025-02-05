@@ -12,3 +12,10 @@
         text-align: center;
     }
 }
+
+/* Tablet Retrato */
+@media (min-width: 601px) and (max-width: 800px) and (orientation: portrait) {
+    .btn-option {
+        width: 100%;
+    }
+}
