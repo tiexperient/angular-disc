@@ -1,5 +1,8 @@
 /* Celular Retrato */
 @media (max-width:600px) and (orientation: portrait) {
-    
+    .btn-option {
+        width: 100%;
+}
+
 
 }
