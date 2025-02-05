@@ -22,12 +22,14 @@ Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacion
 ## Como Funciona
 
 O DISC é simples de usar e foi feito para trazer respostas rápidas sobre o clima organizacional da sua empresa. Ao final, o RH poderá analisar os resultados e tomar decisões estratégicas para melhorar a satisfação da equipe. E, é claro, sem esquecer de proporcionar um ambiente agradável para todos.
+<br><br>
 
 ## Acesse Agora
 
 🌍 O projeto já está online! Acesse o **DISC - Clima Organizacional** aqui: [https://tiexperient-disc.netlify.app/](https://tiexperient-disc.netlify.app/)
 
 👩🏼‍💻 Quer conhecer mais sobre o meu trabalho? Confira o portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
+<br><br>
 
 ## Contribua
 
