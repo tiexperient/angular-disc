@@ -1,6 +1,7 @@
 # DISC - Clima Organizacional 🌟☕️
 
 Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacional de uma forma dinâmica e interativa. Desenvolvi esse projeto para ajudar as empresas a entenderem a satisfação dos colaboradores e fornecer insights valiosos ao RH, para que possam trabalhar na retenção de talentos e melhorar o ambiente de trabalho. Ah, e claro, a produtividade do time também vai subir… quase tanto quanto a xícara de café que o desenvolvedor toma para começar o dia! ☕️
+<br>
 
 ## Funcionalidades
 
@@ -9,12 +10,14 @@ Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacion
 ✅ **Relatórios para RH**: Resultados que ajudam a identificar áreas que precisam de melhorias e evitar que seus talentos busquem novas oportunidades.
 
 ✅ **Design Sofisticado**: Botões com um efeito de aurora boreal para tornar a experiência mais agradável e interativa.
+<br>
 
 ## Tecnologias Utilizadas
 
 🚀 **Angular 14.0.0**  
 ⚡ **TypeScript**  
-🎨 **HTML & CSS Avançado**  
+🎨 **HTML & CSS Avançado** 
+<br> 
 
 ## Como Funciona
 
