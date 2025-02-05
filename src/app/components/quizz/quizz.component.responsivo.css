@@ -40,6 +40,9 @@
         margin-right: 0x;
         padding: 16px 10px;
     }
+    .Glowing-btn {
+        height: 60px;
+    }
 }
 
 /* Tablet Paisagem */
