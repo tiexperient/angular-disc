@@ -1,27 +1,33 @@
-# Buzzfeed
+# DISC - Clima Organizacional 🌟☕️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacional de uma forma dinâmica e interativa. Desenvolvi esse projeto para ajudar as empresas a entenderem a satisfação dos colaboradores e fornecer insights valiosos ao RH, para que possam trabalhar na retenção de talentos e melhorar o ambiente de trabalho. Ah, e claro, a produtividade do time também vai subir… quase tanto quanto a xícara de café que o desenvolvedor toma para começar o dia! ☕️
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+✅ **Avaliação de Clima Organizacional**: 16 perguntas, com 6 opções de respostas cada, para medir a satisfação dos colaboradores de maneira precisa e envolvente.
 
-## Code scaffolding
+✅ **Relatórios para RH**: Resultados que ajudam a identificar áreas que precisam de melhorias e evitar que seus talentos busquem novas oportunidades.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+✅ **Design Sofisticado**: Botões com um efeito de aurora boreal para tornar a experiência mais agradável e interativa.
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🚀 **Angular 14.0.0**  
+⚡ **TypeScript**  
+🎨 **HTML & CSS Avançado**  
 
-## Running unit tests
+## Como Funciona
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O DISC é simples de usar e foi feito para trazer respostas rápidas sobre o clima organizacional da sua empresa. Ao final, o RH poderá analisar os resultados e tomar decisões estratégicas para melhorar a satisfação da equipe. E, é claro, sem esquecer de proporcionar um ambiente agradável para todos.
 
-## Running end-to-end tests
+## Acesse Agora
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🌍 O projeto já está online! Acesse o **DISC - Clima Organizacional** aqui: [https://tiexperient-disc.netlify.app/](https://tiexperient-disc.netlify.app/)
 
-## Further help
+👩🏼‍💻 Quer conhecer mais sobre o meu trabalho? Confira o portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contribua
+
+Fique à vontade para explorar, sugerir melhorias ou até mesmo contribuir para o projeto. Todo feedback é bem-vindo!
+
+Criado com dedicação e amor pelo desenvolvimento por **Célia Medeiros** 💛🚀
