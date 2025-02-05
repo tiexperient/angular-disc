@@ -2,7 +2,9 @@
 @media (max-width:600px) and (orientation: portrait) {
     .btn-option {
         width: 100%;
-}
+    }
 
-
+    .Glowing-btn {
+        height: 60px;
+    }
 }
