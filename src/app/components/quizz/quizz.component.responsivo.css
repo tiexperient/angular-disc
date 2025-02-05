@@ -3,6 +3,7 @@
     .btn-option {
         width: 100%;
         margin-right: 0px;
+        padding: 16px 10px;
     }
 
     .Glowing-btn {
@@ -14,7 +15,7 @@
     }
 
     .quizz_results {
-        height: 900px;
+        height: 950px;
         padding: 10px;
     }
 }
@@ -24,6 +25,11 @@
     .btn-option {
         width: 100%;
         margin-right: 0x;
+    }
+
+    .quizz_results {
+        height: 500px;
+        padding: 10px;
     }
 }
 
