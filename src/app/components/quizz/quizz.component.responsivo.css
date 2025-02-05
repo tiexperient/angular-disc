@@ -1,7 +1,5 @@
 /* Celular Retrato */
 @media (max-width:600px) and (orientation: portrait) {
-    .quizz__container {
-        display:none;
-    }
+    
 
 }
