@@ -26,7 +26,7 @@ O DISC é simples de usar e foi feito para trazer respostas rápidas sobre o cli
 
 ## Acesse Agora
 
-🌍 O projeto já está online! Acesse o **DISC - Clima Organizacional** aqui: [https://tiexperient-disc.netlify.app/](https://tiexperient-disc.netlify.app/)
+🌍 O projeto já está online! Acesse o **DISC - Clima Organizacional** aqui: [DISC](https://tiexperient-disc.netlify.app/)
 
 👩🏼‍💻 Quer conhecer mais sobre o meu trabalho? Confira o portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
 <br><br>
