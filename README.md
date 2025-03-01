@@ -33,7 +33,7 @@ O DISC é simples de usar e foi feito para trazer respostas rápidas sobre o cli
 📢  Explore meu blog, onde compartilho meus aprendizados, experiências e códigos:[Meu Blog Pessoal](https://tiexperient-blog.netlify.app/) 
 <br><br>
 
-## Contribua
+## 💪 Contribua
 
 Fique à vontade para explorar, sugerir melhorias ou até mesmo contribuir para o projeto. Todo feedback é bem-vindo!
 

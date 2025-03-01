@@ -5,12 +5,12 @@
       "id": 1,
       "question": "Como você se sente em relação ao ambiente de trabalho?",
       "options": [
-        { "id": 1, "name": "Tenso e desmotivador", "alias": "A" },
-        { "id": 2, "name": "Pouco motivador e estressante", "alias": "A" },
-        { "id": 3, "name": "Neutro, sem grandes expectativas", "alias": "C" },
-        { "id": 4, "name": "Relativamente agradável, mas poderia ser melhor", "alias": "B" },
-        { "id": 5, "name": "Agradável e produtivo", "alias": "B" },
-        { "id": 6, "name": "Extremamente motivador e positivo", "alias": "B" }
+        { "id": 1, "name": "Pouco motivador e estressante", "alias": "A" },
+        { "id": 2, "name": "Neutro, sem grandes expectativas", "alias": "C" },
+        { "id": 3, "name": "Agradável e produtivo", "alias": "B" },
+        { "id": 4, "name": "Extremamente motivador e positivo", "alias": "B" },
+        { "id": 5, "name": "Relativamente agradável, mas poderia ser melhor", "alias": "C" },
+        { "id": 6, "name": "Tenso e desmotivador", "alias": "A" }
       ]
     },
     {
@@ -18,10 +18,10 @@
       "question": "Você se sente reconhecido pelo seu trabalho?",
       "options": [
         { "id": 1, "name": "Não, meu esforço raramente é valorizado", "alias": "A" },
-        { "id": 2, "name": "Às vezes, mas sinto que poderia ser mais", "alias": "A" },
-        { "id": 3, "name": "Não há um reconhecimento claro", "alias": "C" },
-        { "id": 4, "name": "Sim, sou reconhecido quando faço um bom trabalho", "alias": "B" },
-        { "id": 5, "name": "Sou frequentemente reconhecido e incentivado", "alias": "B" },
+        { "id": 2, "name": "Às vezes, mas sinto que poderia ser mais", "alias": "C" },
+        { "id": 3, "name": "Sim, sou reconhecido quando faço um bom trabalho", "alias": "B" },
+        { "id": 4, "name": "Sou frequentemente reconhecido e incentivado", "alias": "B" },
+        { "id": 5, "name": "Não há um reconhecimento claro", "alias": "C" },
         { "id": 6, "name": "Sempre sou valorizado e reconhecido publicamente", "alias": "B" }
       ]
     },
@@ -29,24 +29,24 @@
       "id": 3,
       "question": "Como você avalia a comunicação dentro da empresa?",
       "options": [
-        { "id": 1, "name": "Confusa e ineficaz", "alias": "A" },
-        { "id": 2, "name": "Falta clareza e coerência", "alias": "A" },
-        { "id": 3, "name": "Às vezes, a comunicação é boa, outras vezes é falha", "alias": "C" },
-        { "id": 4, "name": "Clara, mas poderia ser mais direta", "alias": "B" },
-        { "id": 5, "name": "Clara e eficiente", "alias": "B" },
-        { "id": 6, "name": "Extremamente clara, transparente e rápida", "alias": "B" }
+        { "id": 1, "name": "Às vezes, a comunicação é boa, outras vezes é falha", "alias": "C" },
+        { "id": 2, "name": "Confusa e ineficaz", "alias": "A" },
+        { "id": 3, "name": "Falta clareza e coerência", "alias": "A" },
+        { "id": 4, "name": "Clara e eficiente", "alias": "B" },
+        { "id": 5, "name": "Extremamente clara, transparente e rápida", "alias": "B" },
+        { "id": 6, "name": "Clara, mas poderia ser mais direta", "alias": "C" }
       ]
     },
     {
       "id": 4,
       "question": "O seu gestor apoia seu desenvolvimento profissional?",
       "options": [
-        { "id": 1, "name": "Não, sinto que não há incentivo", "alias": "A" },
-        { "id": 2, "name": "Raramente há apoio ou orientação", "alias": "A" },
+        { "id": 1, "name": "Raramente há apoio ou orientação", "alias": "A" },
+        { "id": 2, "name": "Sim, mas de forma limitada", "alias": "B" },
         { "id": 3, "name": "Não há ações concretas de desenvolvimento", "alias": "C" },
-        { "id": 4, "name": "Sim, mas de forma limitada", "alias": "B" },
-        { "id": 5, "name": "Sim, meu gestor me incentiva a crescer", "alias": "B" },
-        { "id": 6, "name": "Sim, meu gestor é um grande apoiador e mentor", "alias": "B" }
+        { "id": 4, "name": "Sim, meu gestor me incentiva a crescer", "alias": "B" },
+        { "id": 5, "name": "Sim, meu gestor é um grande apoiador e mentor", "alias": "B" },
+        { "id": 6, "name": "Não, sinto que não há incentivo", "alias": "A" }
       ]
     },
     {
@@ -54,9 +54,9 @@
       "question": "Você tem um bom equilíbrio entre vida pessoal e profissional?",
       "options": [
         { "id": 1, "name": "Não, estou sempre sobrecarregado", "alias": "A" },
-        { "id": 2, "name": "Frequentemente sinto que trabalho demais", "alias": "A" },
-        { "id": 3, "name": "É difícil equilibrar as duas coisas", "alias": "C" },
-        { "id": 4, "name": "Em alguns momentos, tenho dificuldades, mas consigo", "alias": "B" },
+        { "id": 2, "name": "É difícil equilibrar as duas coisas", "alias": "C" },
+        { "id": 3, "name": "Frequentemente sinto que trabalho demais", "alias": "A" },
+        { "id": 4, "name": "Em alguns momentos, tenho dificuldades, mas consigo", "alias": "C" },
         { "id": 5, "name": "Sim, a empresa respeita esse equilíbrio", "alias": "B" },
         { "id": 6, "name": "Tenho total equilíbrio e tempo para a vida pessoal", "alias": "B" }
       ]
@@ -67,10 +67,10 @@
       "options": [
         { "id": 1, "name": "Excessiva e desgastante", "alias": "A" },
         { "id": 2, "name": "Sobrecarregado, sem tempo para descanso", "alias": "A" },
-        { "id": 3, "name": "Em alguns períodos é pesada demais", "alias": "C" },
-        { "id": 4, "name": "Adequada, mas com picos de demanda", "alias": "B" },
-        { "id": 5, "name": "Adequada e gerenciável", "alias": "B" },
-        { "id": 6, "name": "Sempre equilibrada e bem distribuída", "alias": "B" }
+        { "id": 3, "name": "Adequada, mas com picos de demanda", "alias": "B" },
+        { "id": 4, "name": "Adequada e gerenciável", "alias": "B" },
+        { "id": 5, "name": "Sempre equilibrada e bem distribuída", "alias": "B" },
+        { "id": 6, "name": "Em alguns períodos é pesada demais", "alias": "C" }
       ]
     },
     {
@@ -78,10 +78,10 @@
       "question": "Você se sente confortável para dar sugestões e feedbacks?",
       "options": [
         { "id": 1, "name": "Não, sinto que não sou ouvido", "alias": "A" },
-        { "id": 2, "name": "Sinto que minha opinião não é considerada", "alias": "A" },
-        { "id": 3, "name": "Às vezes, não tenho confiança para dar feedback", "alias": "C" },
-        { "id": 4, "name": "Sim, mas com algumas limitações", "alias": "B" },
-        { "id": 5, "name": "Sim, minha opinião é considerada", "alias": "B" },
+        { "id": 2, "name": "Às vezes, não tenho confiança para dar feedback", "alias": "C" },
+        { "id": 3, "name": "Sinto que minha opinião não é considerada", "alias": "A" },
+        { "id": 4, "name": "Sim, minha opinião é considerada", "alias": "B" },
+        { "id": 5, "name": "Sim, mas com algumas limitações", "alias": "C" },
         { "id": 6, "name": "Sim, sinto-me totalmente confortável para sugerir e opinar", "alias": "B" }
       ]
     },
@@ -89,12 +89,12 @@
       "id": 8,
       "question": "O ambiente da empresa favorece a colaboração entre colegas?",
       "options": [
-        { "id": 1, "name": "Não, existe muita competitividade e conflitos", "alias": "A" },
-        { "id": 2, "name": "Há muita rivalidade e pouca cooperação", "alias": "A" },
-        { "id": 3, "name": "A colaboração é limitada a algumas pessoas", "alias": "C" },
-        { "id": 4, "name": "Sim, mas poderia ser mais integrada", "alias": "B" },
-        { "id": 5, "name": "Sim, há um bom espírito de equipe", "alias": "B" },
-        { "id": 6, "name": "Sim, a colaboração é excelente e natural", "alias": "B" }
+        { "id": 1, "name": "Sim, mas poderia ser mais integrada", "alias": "C" },
+        { "id": 2, "name": "Não, existe muita competitividade e conflitos", "alias": "A" },
+        { "id": 3, "name": "Sim, há um bom espírito de equipe", "alias": "B" },
+        { "id": 4, "name": "Sim, a colaboração é excelente e natural", "alias": "B" },
+        { "id": 5, "name": "Há muita rivalidade e pouca cooperação", "alias": "A" },
+        { "id": 6, "name": "A colaboração é limitada a algumas pessoas", "alias": "C" }
       ]
     },
     {
@@ -104,8 +104,8 @@
         { "id": 1, "name": "Não, vejo poucas chances de evoluir", "alias": "A" },
         { "id": 2, "name": "Não há uma trajetória clara para crescimento", "alias": "A" },
         { "id": 3, "name": "Sinto que as oportunidades são limitadas", "alias": "C" },
-        { "id": 4, "name": "Sim, há oportunidades, mas são poucas", "alias": "B" },
-        { "id": 5, "name": "Sim, há boas oportunidades de crescimento", "alias": "B" },
+        { "id": 4, "name": "Sim, há boas oportunidades de crescimento", "alias": "B" },
+        { "id": 5, "name": "Sim, há oportunidades, mas são poucas", "alias": "C" },
         { "id": 6, "name": "Sim, sempre há novas oportunidades de desenvolvimento", "alias": "B" }
       ]
     },
@@ -116,9 +116,9 @@
         { "id": 1, "name": "Insuficientes e pouco atrativos", "alias": "A" },
         { "id": 2, "name": "Os benefícios são limitados e não atendem às minhas necessidades", "alias": "A" },
         { "id": 3, "name": "Benefícios razoáveis, mas não excepcionais", "alias": "C" },
-        { "id": 4, "name": "Bons, mas poderiam ser melhorados", "alias": "B" },
-        { "id": 5, "name": "Bons e satisfatórios", "alias": "B" },
-        { "id": 6, "name": "Extremamente atrativos e completos", "alias": "B" }
+        { "id": 4, "name": "Bons e satisfatórios", "alias": "B" },
+        { "id": 5, "name": "Extremamente atrativos e completos", "alias": "B" },
+        { "id": 6, "name": "Bons, mas poderiam ser melhorados", "alias": "C" }
       ]
     },
     {
@@ -127,9 +127,9 @@
       "options": [
         { "id": 1, "name": "Não, estou insatisfeito com a remuneração", "alias": "A" },
         { "id": 2, "name": "Minha remuneração está abaixo do esperado", "alias": "A" },
-        { "id": 3, "name": "Não é ideal, mas está dentro da média", "alias": "C" },
-        { "id": 4, "name": "Sim, considero justo", "alias": "B" },
-        { "id": 5, "name": "Sim, estou satisfeito com a remuneração", "alias": "B" },
+        { "id": 3, "name": "Sim, considero justo", "alias": "B" },
+        { "id": 4, "name": "Sim, estou satisfeito com a remuneração", "alias": "B" },
+        { "id": 5, "name": "Não é ideal, mas está dentro da média", "alias": "C" },
         { "id": 6, "name": "Meu salário está bem acima da média do mercado", "alias": "B" }
       ]
     },
@@ -137,12 +137,12 @@
       "id": 12,
       "question": "A empresa promove um ambiente de diversidade e inclusão?",
       "options": [
-        { "id": 1, "name": "Não, há discriminação ou exclusão", "alias": "A" },
+        { "id": 1, "name": "Há uma abordagem superficial sobre o tema", "alias": "C" },
         { "id": 2, "name": "Ainda há muitos problemas com diversidade e inclusão", "alias": "A" },
-        { "id": 3, "name": "Há uma abordagem superficial sobre o tema", "alias": "C" },
-        { "id": 4, "name": "Sim, mas poderia ser mais integrado", "alias": "B" },
-        { "id": 5, "name": "Sim, há respeito e inclusão", "alias": "B" },
-        { "id": 6, "name": "A empresa é exemplar em diversidade e inclusão", "alias": "B" }
+        { "id": 3, "name": "Sim, há respeito e inclusão", "alias": "B" },
+        { "id": 4, "name": "Sim, mas poderia ser mais integrado", "alias": "C" },
+        { "id": 5, "name": "A empresa é exemplar em diversidade e inclusão", "alias": "B" },
+        { "id": 6, "name": "Não, há discriminação ou exclusão", "alias": "A" }
       ]
     },
     {
@@ -150,11 +150,11 @@
       "question": "O seu trabalho contribui para seu aprendizado e crescimento profissional?",
       "options": [
         { "id": 1, "name": "Não, sinto que estou estagnado", "alias": "A" },
-        { "id": 2, "name": "Meu trabalho não me desafia", "alias": "A" },
-        { "id": 3, "name": "Não há muitas oportunidades de aprendizado", "alias": "C" },
-        { "id": 4, "name": "Sim, aprendo e me desenvolvo constantemente", "alias": "B" },
-        { "id": 5, "name": "Sim, sempre há espaço para crescer e aprender", "alias": "B" },
-        { "id": 6, "name": "Meu trabalho é uma excelente oportunidade para meu desenvolvimento", "alias": "B" }
+        { "id": 2, "name": "Não há muitas oportunidades de aprendizado", "alias": "C" },
+        { "id": 3, "name": "Sim, aprendo e me desenvolvo constantemente", "alias": "B" },
+        { "id": 4, "name": "Sim, sempre há espaço para crescer e aprender", "alias": "B" },
+        { "id": 5, "name": "Meu trabalho é uma excelente oportunidade para meu desenvolvimento", "alias": "B" },
+        { "id": 6, "name": "Meu trabalho não me desafia", "alias": "A" }
       ]
     },
     {
@@ -163,10 +163,10 @@
       "options": [
         { "id": 1, "name": "Baixa, há pouca clareza nas decisões", "alias": "A" },
         { "id": 2, "name": "Pouca transparência e comunicação limitada", "alias": "A" },
-        { "id": 3, "name": "A transparência é razoável, mas pode melhorar", "alias": "C" },
-        { "id": 4, "name": "Alta, há comunicação aberta e honesta", "alias": "B" },
-        { "id": 5, "name": "A liderança é transparente e está sempre disposta a explicar", "alias": "B" },
-        { "id": 6, "name": "A transparência é um dos maiores pontos fortes da liderança", "alias": "B" }
+        { "id": 3, "name": "Alta, há comunicação aberta e honesta", "alias": "B" },
+        { "id": 4, "name": "A liderança é transparente e está sempre disposta a explicar", "alias": "B" },
+        { "id": 5, "name": "A transparência é um dos maiores pontos fortes da liderança", "alias": "B" },
+        { "id": 6, "name": "A transparência é razoável, mas pode melhorar", "alias": "C" }
       ]
     },
     {
@@ -176,7 +176,7 @@
         { "id": 1, "name": "Não, falta motivação", "alias": "A" },
         { "id": 2, "name": "Sinto-me desmotivado e sem energia", "alias": "A" },
         { "id": 3, "name": "É difícil me manter motivado todos os dias", "alias": "C" },
-        { "id": 4, "name": "Sim, mas às vezes sinto que a motivação é baixa", "alias": "B" },
+        { "id": 4, "name": "Sim, mas às vezes sinto que a motivação é baixa", "alias": "C" },
         { "id": 5, "name": "Sim, me sinto engajado", "alias": "B" },
         { "id": 6, "name": "Estou sempre altamente motivado e focado", "alias": "B" }
       ]
@@ -185,10 +185,10 @@
       "id": 16,
       "question": "Você recomendaria a empresa para um amigo trabalhar?",
       "options": [
-        { "id": 1, "name": "Não, não recomendaria", "alias": "A" },
-        { "id": 2, "name": "Não recomendaria, pois não estou satisfeito", "alias": "A" },
-        { "id": 3, "name": "Eu recomendaria, mas com ressalvas", "alias": "C" },
-        { "id": 4, "name": "Sim, recomendaria com algumas ressalvas", "alias": "B" },
+        { "id": 1, "name": "Sim, recomendaria com algumas ressalvas", "alias": "C" },
+        { "id": 2, "name": "Não, não recomendaria", "alias": "A" },
+        { "id": 3, "name": "Não recomendaria, pois não estou satisfeito", "alias": "A" },
+        { "id": 4, "name": "Eu não sei, teria que pensar bem", "alias": "C" },
         { "id": 5, "name": "Sim, recomendaria com certeza", "alias": "B" },
         { "id": 6, "name": "Eu recomendo fortemente a empresa para qualquer pessoa", "alias": "B" }
       ]
@@ -196,6 +196,7 @@
   ],
   "results": {
     "A": "<h2>CLIMA ORGANIZACIONAL INSATISFATÓRIO</h2><br> Os resultados indicam um clima organizacional insatisfatório, o que pode ser um reflexo de diversos fatores críticos dentro da empresa. Os colaboradores parecem estar enfrentando dificuldades em áreas fundamentais, como comunicação interna, reconhecimento profissional e equilíbrio entre vida pessoal e profissional. Quando as pessoas não se sentem ouvidas ou valorizadas, o comprometimento e a produtividade tendem a ser afetados. Além disso, a falta de oportunidades de crescimento e o sentimento de estagnação podem gerar desmotivação e levar ao desgaste dos profissionais.<br><br> O ambiente de trabalho, muitas vezes percebido como tenso e desmotivador, pode desencadear sentimentos de insegurança e frustração, resultando em um aumento de rotatividade e diminuição do engajamento. A ausência de um apoio consistente por parte dos gestores e a falta de transparência nas decisões impactam negativamente a confiança dos colaboradores na liderança.<br><br> É fundamental que a empresa se concentre em ouvir seus funcionários e criar um plano de ação para resolver esses problemas. A implementação de práticas de reconhecimento, uma comunicação clara e ações voltadas para o equilíbrio de vida e trabalho são essenciais para reverter esse cenário e restaurar a satisfação e o bem-estar no ambiente de trabalho.",
-    "B": "<h2>CLIMA ORGANIZACIONAL SATISFATÓRIO</h2><br> Os resultados indicam um clima organizacional positivo, com os colaboradores se sentindo valorizados, motivados e satisfeitos com a cultura da empresa. A comunicação interna clara e eficiente, a liderança transparente e a promoção de um ambiente de respeito e inclusão têm um papel fundamental nesse cenário. Quando os profissionais se sentem reconhecidos e têm um bom equilíbrio entre suas vidas pessoais e profissionais, o engajamento e a produtividade tendem a ser significativamente mais altos. Além disso, as oportunidades de crescimento e desenvolvimento profissional, combinadas com uma carga de trabalho adequada e gerenciável, criam um ambiente propício para o aprendizado contínuo.<br><br>O apoio da liderança no desenvolvimento dos colaboradores também fortalece o vínculo com a empresa, aumentando a retenção de talentos e criando uma equipe coesa e comprometida. Esse tipo de ambiente favorece a colaboração entre os colegas e fomenta um espírito de equipe saudável, essencial para a inovação e a excelência. As condições de trabalho, a valorização das sugestões dos colaboradores e a oferta de benefícios satisfatórios são fatores que contribuem para um ambiente harmonioso e produtivo.<br><br> É importante que a empresa continue investindo em sua cultura organizacional positiva para manter os níveis de satisfação e engajamento elevados, além de continuar a promover um espaço de respeito, aprendizado e crescimento."
+    "B": "<h2>CLIMA ORGANIZACIONAL SATISFATÓRIO</h2><br> Os resultados indicam um clima organizacional positivo, com os colaboradores se sentindo valorizados, motivados e satisfeitos com a cultura da empresa. A comunicação interna clara e eficiente, a liderança transparente e a promoção de um ambiente de respeito e inclusão têm um papel fundamental nesse cenário. Quando os profissionais se sentem reconhecidos e têm um bom equilíbrio entre suas vidas pessoais e profissionais, o engajamento e a produtividade tendem a ser significativamente mais altos. Além disso, as oportunidades de crescimento e desenvolvimento profissional, combinadas com uma carga de trabalho adequada e gerenciável, criam um ambiente propício para o aprendizado contínuo.<br><br>O apoio da liderança no desenvolvimento dos colaboradores também fortalece o vínculo com a empresa, aumentando a retenção de talentos e criando uma equipe coesa e comprometida. Esse tipo de ambiente favorece a colaboração entre os colegas e fomenta um espírito de equipe saudável, essencial para a inovação e a excelência. As condições de trabalho, a valorização das sugestões dos colaboradores e a oferta de benefícios satisfatórios são fatores que contribuem para um ambiente harmonioso e produtivo.<br><br> É importante que a empresa continue investindo em sua cultura organizacional positiva para manter os níveis de satisfação e engajamento elevados, além de continuar a promover um espaço de respeito, aprendizado e crescimento.",
+    "C": "<h2>CLIMA ORGANIZACIONAL MODERADO EM ALERTA</h2><br>Os resultados indicam que há desafios consideráveis no clima organizacional, evidenciando um nível comedido de insatisfação que pode impactar diretamente a produtividade e o engajamento dos colaboradores. A comunicação interna pode estar falhando em transmitir diretrizes claras, gerando dúvidas e insegurança na equipe. A falta de reconhecimento, oportunidades limitadas de crescimento e pouca valorização do esforço individual podem estar contribuindo para um ambiente algumas vezes desmotivador.<br><br>Os resultados indicam que há desafios consideráveis no clima organizacional, evidenciando um nível de insatisfação que pode impactar diretamente a produtividade e o engajamento dos colaboradores. A comunicação interna pode estar falhando em transmitir diretrizes claras, gerando dúvidas e insegurança na equipe. A falta de reconhecimento, oportunidades limitadas de crescimento e pouca valorização do esforço individual podem estar contribuindo para um ambiente desmotivador.<br><br>Para reverter esse cenário, recomenda-se que a empresa adote medidas estratégicas, como a criação de canais de comunicação mais eficazes, feedbacks construtivos e políticas de reconhecimento. Investir no bem-estar dos funcionários, oferecendo benefícios adequados, suporte emocional e oportunidades de capacitação, pode ser um diferencial essencial. Fortalecer a cultura organizacional com foco na valorização da equipe ajudará a transformar o ambiente de trabalho em um espaço mais positivo e produtivo."
   }
 }
