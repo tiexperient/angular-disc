@@ -1,6 +1,6 @@
 # DISC - Clima Organizacional 🌟☕️
 
-Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacional de uma forma dinâmica e interativa. Desenvolvi esse projeto para ajudar as empresas a entenderem a satisfação dos colaboradores e fornecer insights valiosos ao RH, para que possam trabalhar na retenção de talentos e melhorar o ambiente de trabalho. Ah, e claro, a produtividade do time também vai subir… quase tanto quanto a xícara de café que o desenvolvedor toma para começar o dia! ☕️
+Bem-vindo(a) ao **NPS**! O seu primeiro passo para avaliar o clima organizacional de uma forma dinâmica e interativa. Desenvolvi esse projeto para ajudar as empresas a entenderem a satisfação dos colaboradores e fornecer insights valiosos ao RH, para que possam trabalhar na retenção de talentos e melhorar o ambiente de trabalho. Ah, e claro, a produtividade do time também vai subir… quase tanto quanto a xícara de café que o desenvolvedor toma para começar o dia! ☕️
 <br><br>
 
 ## Funcionalidades
@@ -21,12 +21,12 @@ Bem-vindo(a) ao **DISC**! O seu primeiro passo para avaliar o clima organizacion
 
 ## Como Funciona
 
-O DISC é simples de usar e foi feito para trazer respostas rápidas sobre o clima organizacional da sua empresa. Ao final, o RH poderá analisar os resultados e tomar decisões estratégicas para melhorar a satisfação da equipe. E, é claro, sem esquecer de proporcionar um ambiente agradável para todos.
+O NPS é simples de usar e foi feito para trazer respostas rápidas sobre o clima organizacional da sua empresa. Ao final, o RH poderá analisar os resultados e tomar decisões estratégicas para melhorar a satisfação da equipe. E, é claro, sem esquecer de proporcionar um ambiente agradável para todos.
 <br><br>
 
 ## Acesse Agora
 
-🌍 O projeto já está online! Acesse o **DISC - Clima Organizacional** aqui: [DISC](https://tiexperient-disc.netlify.app/)
+🌍 O projeto já está online! Acesse o **NPS - Clima Organizacional** aqui: [NPS](https://tiexperient-disc.netlify.app/)
 
 👩🏼‍💻 Quer conhecer mais sobre o meu trabalho? Confira o portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)
 
