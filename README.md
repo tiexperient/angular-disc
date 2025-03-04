@@ -1,4 +1,4 @@
-# DISC - Clima Organizacional 🌟☕️
+# NPS- Clima Organizacional 🌟☕️
 
 Bem-vindo(a) ao **NPS**! O seu primeiro passo para avaliar o clima organizacional de uma forma dinâmica e interativa. Desenvolvi esse projeto para ajudar as empresas a entenderem a satisfação dos colaboradores e fornecer insights valiosos ao RH, para que possam trabalhar na retenção de talentos e melhorar o ambiente de trabalho. Ah, e claro, a produtividade do time também vai subir… quase tanto quanto a xícara de café que o desenvolvedor toma para começar o dia! ☕️
 <br><br>
